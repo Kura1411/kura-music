@@ -1,0 +1,11 @@
+{
+  "packs": [
+    {
+      "id": "inazumaog",
+      "name": "Opening Inazuma Eleven OG",
+      "description": "Openings 1 à 6",
+      "sizeMb": 18,
+      "url": "https://github.com/TON_PSEUDO/kura-music/releases/download/packs/inazuma.zip"
+    }
+  ]
+}
