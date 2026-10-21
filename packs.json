@@ -6,6 +6,13 @@
       "description": "Openings 1 à 6",
       "sizeMb": 18,
       "url": "https://github.com/Kura1411/kura-music/releases/download/packs/inazuma.zip"
+    },
+    {
+      "id": "inazumago",
+      "name": "Opening Inazuma Eleven GO",
+      "description": "Openings 1 à 6",
+      "sizeMb": 18,
+      "url": "https://github.com/Kura1411/kura-music/releases/download/packs/inazumago.zip"
     }
   ]
 }
