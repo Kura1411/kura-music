@@ -1,11 +1,46 @@
 {
-  "packs": [
-    {
-      "id": "inazumaog",
-      "name": "Opening Inazuma Eleven OG",
-      "description": "Openings 1 à 6",
-      "sizeMb": 22,
-      "url": "https://github.com/Kura1411/kura-music/releases/download/packs/inazuma.zip"
-    }
-  ]
+"packs": [
+{
+"id": "inazumaog",
+"name": "Opening Inazuma Eleven OG",
+"description": "Openings 1 à 6",
+"sizeMb": 22,
+"url": "https://github.com/Kura1411/kura-music/releases/download/packs/inazuma.zip"
+},
+{
+"id": "inazumago",
+"name": "Opening Inazuma Eleven GO",
+"description": "Openings de la série Inazuma Eleven GO",
+"sizeMb": 30,
+"url": "https://github.com/Kura1411/kura-music/releases/download/packs/inazumago.zip"
+},
+{
+"id": "naruto",
+"name": "Opening Naruto",
+"description": "Openings de Naruto",
+"sizeMb": 35,
+"url": "https://github.com/Kura1411/kura-music/releases/download/packs/naruto.zip"
+},
+{
+"id": "narutoshippuden",
+"name": "Opening Naruto Shippuden",
+"description": "Openings de Naruto Shippuden",
+"sizeMb": 45,
+"url": "https://github.com/Kura1411/kura-music/releases/download/packs/narutoshippuden.zip"
+},
+{
+"id": "onepiece",
+"name": "Opening One Piece",
+"description": "Openings de One Piece",
+"sizeMb": 60,
+"url": "https://github.com/Kura1411/kura-music/releases/download/packs/onepiece.zip"
+},
+{
+"id": "bleach",
+"name": "Opening Bleach",
+"description": "Openings de Bleach",
+"sizeMb": 40,
+"url": "https://github.com/Kura1411/kura-music/releases/download/packs/bleach.zip"
+}
+]
 }
